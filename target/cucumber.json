@@ -1,0 +1,478 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Credit Card Application from BOfAmerica",
+        "description": "",
+        "id": "credit-card-application;credit-card-application-from-bofamerica",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6344709931,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user is on the home page",
+            "match": {
+              "location": "HomePageStepDefs.the_user_is_on_the_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 123770369,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user click credit crads link",
+            "match": {
+              "location": "HomePageStepDefs.the_user_click_credit_crads_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1154587677,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the user click Cash Rewards Credit Cards link",
+            "match": {
+              "location": "HomePageStepDefs.the_user_click_Cash_Rewards_Credit_Cards_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 19213833094,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "the user click apply button for Cash Rewards Credit Cards",
+            "match": {
+              "location": "HomePageStepDefs.the_user_click_apply_button_for_Cash_Rewards_Credit_Cards()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 14732814,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "the user verifies url and title",
+            "match": {
+              "location": "HomePageStepDefs.the_user_verifies_url_and_title()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 222650023,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the user enters the first name",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_first_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 202773330,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "the user enters the last name",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_last_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 410158613,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "the user enters the address",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_address()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 253422261,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "the user enters the city",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_city()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 115089543,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "the user selecets the state",
+            "match": {
+              "location": "HomePageStepDefs.the_user_selecets_the_state()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 190256574,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "the user enters the zip code",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_zip_code()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 305213136,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "the user enters the phone number",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_phone_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 95203925,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "the user selects the phone number type",
+            "match": {
+              "location": "HomePageStepDefs.the_user_selects_the_phone_number_type()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 444900657,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "the user enters the email address",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_email_address()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 83468545,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "the user answers the citizenship question",
+            "match": {
+              "location": "HomePageStepDefs.the_user_answers_the_citizenship_question()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 474053021,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "the user enters the SSN",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_SSN()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 65059556,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "the user answers the dual citizenship question",
+            "match": {
+              "location": "HomePageStepDefs.the_user_answers_the_dual_citizenship_question()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 105894197,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "the user selects the country of residence",
+            "match": {
+              "location": "HomePageStepDefs.the_user_selects_the_country_of_residence()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 307724609,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "the user enters the date of birth",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_date_of_birth()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 95013825,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "the user selects employment status",
+            "match": {
+              "location": "HomePageStepDefs.the_user_selects_employment_status()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 219145207,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "the user enters the total annual income",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_total_annual_income()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 104265399,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "the user selects the source of income",
+            "match": {
+              "location": "HomePageStepDefs.the_user_selects_the_source_of_income()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 186483117,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "the user enters the montlhy housing payment",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_montlhy_housing_payment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 71959859,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "the user click checkbox of agrement terms and conditions",
+            "match": {
+              "location": "HomePageStepDefs.the_user_click_checkbox_of_agrement_terms_and_conditions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 125075193,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "the user selects occupation",
+            "match": {
+              "location": "HomePageStepDefs.the_user_selects_occupation()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 198221174,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "the user click Continue Button",
+            "match": {
+              "location": "HomePageStepDefs.the_user_click_Continue_Button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@apply"
+          }
+        ]
+      }
+    ],
+    "name": "Credit Card Application",
+    "description": "",
+    "id": "credit-card-application",
+    "keyword": "Feature",
+    "uri": "C:\\Users\\vt\\workspaceForEclipseNewerVersions\\bankOfAmerica\\src\\test\\resources\\features\\apllyingCashReawardsCard.feature",
+    "tags": []
+  }
+]      },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11603,
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "the user answers the dual citizenship question",
+            "match": {
+              "location": "HomePageStepDefs.the_user_answers_the_dual_citizenship_question()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12049,
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "the user selects the country of residence",
+            "match": {
+              "location": "HomePageStepDefs.the_user_selects_the_country_of_residence()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8032,
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "the user enters the date of birth",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_date_of_birth()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5355,
+              "status": "skipped"
+            },
+            "line": 25,
+            "name": "the user selects employment status",
+            "match": {
+              "location": "HomePageStepDefs.the_user_selects_employment_status()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5355,
+              "status": "skipped"
+            },
+            "line": 26,
+            "name": "the user enters the total annual income",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_total_annual_income()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6693,
+              "status": "skipped"
+            },
+            "line": 27,
+            "name": "the user selects the source of income",
+            "match": {
+              "location": "HomePageStepDefs.the_user_selects_the_source_of_income()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7140,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "the user enters the montlhy housing payment",
+            "match": {
+              "location": "HomePageStepDefs.the_user_enters_the_montlhy_housing_payment()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4909,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "the user click checkbox of agrement terms and conditions",
+            "match": {
+              "location": "HomePageStepDefs.the_user_click_checkbox_of_agrement_terms_and_conditions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4909,
+              "status": "skipped"
+            },
+            "line": 30,
+            "name": "the user selects occupation",
+            "match": {
+              "location": "HomePageStepDefs.the_user_selects_occupation()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10710,
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "the user click Continue Button",
+            "match": {
+              "location": "HomePageStepDefs.the_user_click_Continue_Button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@apply"
+          }
+        ]
+      }
+    ],
+    "name": "Credit Card Application",
+    "description": "",
+    "id": "credit-card-application",
+    "keyword": "Feature",
+    "uri": "C:\\Users\\vt\\workspaceForEclipseNewerVersions\\bankOfAmerica\\src\\test\\resources\\features\\apllyingCashReawardsCard.feature",
+    "tags": []
+  }
+]
