@@ -4,6 +4,7 @@ import static org.junit.Assert.assertTrue;
 
 import java.util.concurrent.TimeUnit;
 
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
@@ -17,6 +18,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import pages.HomePage;
+import utilities.BrowserUtils;
 import utilities.ConfigurationReader;
 import utilities.Driver;
 
@@ -24,7 +26,7 @@ public class HomePageStepDefs {
 
 	private WebDriver driver = Driver.getDriver();
 	HomePage hp = new HomePage();
-	WebDriverWait wait = new WebDriverWait(Driver.getDriver(), 5);
+
 	
 	@Given("the user is on the home page")
 	public void the_user_is_on_the_home_page() {
@@ -40,13 +42,13 @@ public class HomePageStepDefs {
 
 	@Given("the user click Cash Rewards Credit Cards link")
 	public void the_user_click_Cash_Rewards_Credit_Cards_link() {
-		wait.until(ExpectedConditions.elementToBeClickable(hp.cashRewardsCardsLink));
+		BrowserUtils.waitForClickablility(hp.cashRewardsCardsLink,10);
 	    hp.cashRewardsCardsLink.click();
 	}
 
 	@Given("the user click apply button for Cash Rewards Credit Cards")
 	public void the_user_click_apply_button_for_Cash_Rewards_Credit_Cards() {
-		wait.until(ExpectedConditions.elementToBeClickable(hp.applyNowButton));
+		BrowserUtils.waitForClickablility(hp.applyNowButton, 10);
 	    hp.applyNowButton.click();
 	}
 
@@ -58,13 +60,13 @@ public class HomePageStepDefs {
 
 	@When("the user enters the first name")
 	public void the_user_enters_the_first_name() {
-		wait.until(ExpectedConditions.elementToBeClickable(hp.firstName));
+		BrowserUtils.waitForClickablility(hp.firstName, 10);
 		hp.firstName.sendKeys("Bob");
 	}
 
 	@When("the user enters the last name")
 	public void the_user_enters_the_last_name() {
-	//	wait.until(ExpectedConditions.elementToBeClickable(hp.lastName));
+		BrowserUtils.waitForClickablility(hp.lastName, 10);
 		hp.lastName.sendKeys("Smith");
 	}
 
@@ -114,7 +116,7 @@ public class HomePageStepDefs {
 	
 	@When("the user enters the SSN")
 	public void the_user_enters_the_SSN() {
-	    wait.until(ExpectedConditions.invisibilityOf(hp.ssNumber));
+		BrowserUtils.waitForClickablility(hp.ssNumber, 10);
 	    hp.ssNumber.sendKeys("614976587");
 	}
 	
@@ -177,6 +179,13 @@ public class HomePageStepDefs {
 	@When("the user click Continue Button")
 	public void the_user_click_Continue_Button() {
 	    hp.continueButton.click();
+	}
+
+	@Then("the user should see submit button")
+	public void the_user_should_see_submit_button() {
+		BrowserUtils.waitForClickablility(hp.submitButton,40);
+		BrowserUtils.verifyElementDisplayed(hp.submitButton);
+
 	}
 	
 	

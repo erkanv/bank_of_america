@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 6344709931,
+              "duration": 6543168546,
               "status": "passed"
             },
             "line": 6,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 123770369,
+              "duration": 341318320,
               "status": "passed"
             },
             "line": 7,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 1154587677,
+              "duration": 2670609850,
               "status": "passed"
             },
             "line": 8,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 19213833094,
+              "duration": 6740075702,
               "status": "passed"
             },
             "line": 9,
@@ -60,7 +60,7 @@
           },
           {
             "result": {
-              "duration": 14732814,
+              "duration": 19043122,
               "status": "passed"
             },
             "line": 10,
@@ -72,7 +72,7 @@
           },
           {
             "result": {
-              "duration": 222650023,
+              "duration": 608325442,
               "status": "passed"
             },
             "line": 11,
@@ -84,7 +84,7 @@
           },
           {
             "result": {
-              "duration": 202773330,
+              "duration": 340067490,
               "status": "passed"
             },
             "line": 12,
@@ -96,7 +96,7 @@
           },
           {
             "result": {
-              "duration": 410158613,
+              "duration": 435640993,
               "status": "passed"
             },
             "line": 13,
@@ -108,7 +108,7 @@
           },
           {
             "result": {
-              "duration": 253422261,
+              "duration": 326194579,
               "status": "passed"
             },
             "line": 14,
@@ -120,7 +120,7 @@
           },
           {
             "result": {
-              "duration": 115089543,
+              "duration": 137207407,
               "status": "passed"
             },
             "line": 15,
@@ -132,7 +132,7 @@
           },
           {
             "result": {
-              "duration": 190256574,
+              "duration": 322034670,
               "status": "passed"
             },
             "line": 16,
@@ -144,7 +144,7 @@
           },
           {
             "result": {
-              "duration": 305213136,
+              "duration": 460744589,
               "status": "passed"
             },
             "line": 17,
@@ -156,7 +156,7 @@
           },
           {
             "result": {
-              "duration": 95203925,
+              "duration": 97262992,
               "status": "passed"
             },
             "line": 18,
@@ -168,7 +168,7 @@
           },
           {
             "result": {
-              "duration": 444900657,
+              "duration": 465312368,
               "status": "passed"
             },
             "line": 19,
@@ -180,7 +180,7 @@
           },
           {
             "result": {
-              "duration": 83468545,
+              "duration": 75536589,
               "status": "passed"
             },
             "line": 20,
@@ -192,7 +192,7 @@
           },
           {
             "result": {
-              "duration": 474053021,
+              "duration": 915153817,
               "status": "passed"
             },
             "line": 21,
@@ -204,7 +204,7 @@
           },
           {
             "result": {
-              "duration": 65059556,
+              "duration": 68680904,
               "status": "passed"
             },
             "line": 22,
@@ -216,7 +216,7 @@
           },
           {
             "result": {
-              "duration": 105894197,
+              "duration": 135846801,
               "status": "passed"
             },
             "line": 23,
@@ -228,7 +228,7 @@
           },
           {
             "result": {
-              "duration": 307724609,
+              "duration": 356710699,
               "status": "passed"
             },
             "line": 24,
@@ -240,7 +240,7 @@
           },
           {
             "result": {
-              "duration": 95013825,
+              "duration": 170284982,
               "status": "passed"
             },
             "line": 25,
@@ -252,7 +252,7 @@
           },
           {
             "result": {
-              "duration": 219145207,
+              "duration": 415843267,
               "status": "passed"
             },
             "line": 26,
@@ -264,7 +264,7 @@
           },
           {
             "result": {
-              "duration": 104265399,
+              "duration": 113774558,
               "status": "passed"
             },
             "line": 27,
@@ -276,7 +276,7 @@
           },
           {
             "result": {
-              "duration": 186483117,
+              "duration": 281067011,
               "status": "passed"
             },
             "line": 28,
@@ -288,7 +288,7 @@
           },
           {
             "result": {
-              "duration": 71959859,
+              "duration": 110652618,
               "status": "passed"
             },
             "line": 29,
@@ -300,7 +300,7 @@
           },
           {
             "result": {
-              "duration": 125075193,
+              "duration": 199669867,
               "status": "passed"
             },
             "line": 30,
@@ -312,7 +312,7 @@
           },
           {
             "result": {
-              "duration": 198221174,
+              "duration": 2137933897,
               "status": "passed"
             },
             "line": 31,
@@ -321,144 +321,18 @@
               "location": "HomePageStepDefs.the_user_click_Continue_Button()"
             },
             "keyword": "And "
-          }
-        ],
-        "tags": [
-          {
-            "name": "@apply"
-          }
-        ]
-      }
-    ],
-    "name": "Credit Card Application",
-    "description": "",
-    "id": "credit-card-application",
-    "keyword": "Feature",
-    "uri": "C:\\Users\\vt\\workspaceForEclipseNewerVersions\\bankOfAmerica\\src\\test\\resources\\features\\apllyingCashReawardsCard.feature",
-    "tags": []
-  }
-]      },
-            "keyword": "And "
           },
           {
             "result": {
-              "duration": 11603,
-              "status": "skipped"
+              "duration": 242760766,
+              "status": "passed"
             },
-            "line": 22,
-            "name": "the user answers the dual citizenship question",
+            "line": 32,
+            "name": "the user should see submit button",
             "match": {
-              "location": "HomePageStepDefs.the_user_answers_the_dual_citizenship_question()"
+              "location": "HomePageStepDefs.the_user_should_see_submit_button()"
             },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 12049,
-              "status": "skipped"
-            },
-            "line": 23,
-            "name": "the user selects the country of residence",
-            "match": {
-              "location": "HomePageStepDefs.the_user_selects_the_country_of_residence()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 8032,
-              "status": "skipped"
-            },
-            "line": 24,
-            "name": "the user enters the date of birth",
-            "match": {
-              "location": "HomePageStepDefs.the_user_enters_the_date_of_birth()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 5355,
-              "status": "skipped"
-            },
-            "line": 25,
-            "name": "the user selects employment status",
-            "match": {
-              "location": "HomePageStepDefs.the_user_selects_employment_status()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 5355,
-              "status": "skipped"
-            },
-            "line": 26,
-            "name": "the user enters the total annual income",
-            "match": {
-              "location": "HomePageStepDefs.the_user_enters_the_total_annual_income()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 6693,
-              "status": "skipped"
-            },
-            "line": 27,
-            "name": "the user selects the source of income",
-            "match": {
-              "location": "HomePageStepDefs.the_user_selects_the_source_of_income()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 7140,
-              "status": "skipped"
-            },
-            "line": 28,
-            "name": "the user enters the montlhy housing payment",
-            "match": {
-              "location": "HomePageStepDefs.the_user_enters_the_montlhy_housing_payment()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 4909,
-              "status": "skipped"
-            },
-            "line": 29,
-            "name": "the user click checkbox of agrement terms and conditions",
-            "match": {
-              "location": "HomePageStepDefs.the_user_click_checkbox_of_agrement_terms_and_conditions()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 4909,
-              "status": "skipped"
-            },
-            "line": 30,
-            "name": "the user selects occupation",
-            "match": {
-              "location": "HomePageStepDefs.the_user_selects_occupation()"
-            },
-            "keyword": "And "
-          },
-          {
-            "result": {
-              "duration": 10710,
-              "status": "skipped"
-            },
-            "line": 31,
-            "name": "the user click Continue Button",
-            "match": {
-              "location": "HomePageStepDefs.the_user_click_Continue_Button()"
-            },
-            "keyword": "And "
+            "keyword": "Then "
           }
         ],
         "tags": [

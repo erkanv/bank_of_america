@@ -70,22 +70,11 @@ public class HomePage {
 	
 	@FindBy(id="zz_ssndob_tb_icai_ssn_v_1")
 	public WebElement ssNumber;
-	
-//	@FindBy(id = "")
-//	public WebElement ;
-//	
-//	@FindBy(id = "")
-//	public WebElement ;
-//	
-//	@FindBy(id = "")
-//	public WebElement ;
-//	
-//	@FindBy(id = "")
-//	public WebElement ;
-//	
-//	@FindBy(id = "")
-//	public WebElement ;
-	
+
+	@FindBy(linkText = "Submit")
+	public WebElement submitButton;
+
+
 	
 	
 	
