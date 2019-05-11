@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9775638b-45e9-4504-a6ae-21954a0f6f97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/apllyingCashReawardsCard.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/apllyingCashReawardsCard.feature" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>verif</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/resources/features/apllyingCashReawardsCard.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/stepDefs/HomePageStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/bankOfAmerica.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javafaker_javafaker_0_15.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_github_mifmif_generex_1_0_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_05.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_osgi_2_2_10.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__dk_brics_automaton_automaton_1_11_8.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_4_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_6_2_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_html_0_2_7.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java_4_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_junit_4_2_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_1_1_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_dependencies_1_1_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_gherkin_5_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_1_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_3_2_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_3_3_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_3_3_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_3_3_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_3_3_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_0_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_javax_activation_0_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_0_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_15.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_4_15.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_4_15.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_2_5.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_android_1_20.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="200" />
+    <option name="y" value="40" />
+    <option name="width" value="2800" />
+    <option name="height" value="1640" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bankOfAmerica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankOfAmerica" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankOfAmerica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankOfAmerica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankOfAmerica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankOfAmerica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankOfAmerica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankOfAmerica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stepDefs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankOfAmerica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankOfAmerica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bankOfAmerica" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bankOfAmerica" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankOfAmerica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Runner - 2019.05.06 at 14h 25m 18s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2019.05.06 at 14h 26m 39s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2019.05.06 at 14h 34m 41s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2019.05.06 at 14h 37m 09s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Runner - 2019.05.06 at 14h 43m 03s.xml">
+      <configuration name="Runner" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1613" height="873" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24951768" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50032157" side_tool="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49967846" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added verification" />
+    <option name="LAST_COMMIT_MESSAGE" value="added verification" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/stepDefs/HomePageStepDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="186" column="61" lean-forward="true" selection-start-line="186" selection-start-column="61" selection-end-line="186" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/apllyingCashReawardsCard.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
