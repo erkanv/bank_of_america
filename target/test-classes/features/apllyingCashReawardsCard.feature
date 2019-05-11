@@ -29,3 +29,4 @@ Scenario: Credit Card Application from BOfAmerica
 	And the user click checkbox of agrement terms and conditions
 	And the user selects occupation
 	And the user click Continue Button
+	Then the user should see submit button
